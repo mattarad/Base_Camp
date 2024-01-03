@@ -1,0 +1,26 @@
+[
+    {
+        "make": "nissan",
+        "model": "nice car",
+        "color": "black",
+        "number_of_doors": 4
+    },
+    {
+        "make": "audi",
+        "model": "good car",
+        "color": "white",
+        "number_of_doors": 2
+    },
+    {
+        "make": "ford", 
+        "model": "med car",
+        "color": "dark blue",
+        "number_of_doors": 6
+    },
+    {
+        "make": "tesla",
+        "model": "elec",
+        "color": "grey",
+        "number_of_doors": 4
+    }
+]
